@@ -1,7 +1,8 @@
 body{
     margin: 0;
     padding: 0;
-    width: 1024px;
+    width: 100%;
+    max-width: 1024px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -9,7 +10,8 @@ body{
     overflow: auto;
 }
 
-ol, ul footer{
+ol, 
+ul footer{
     list-style: none;
 }
 
@@ -21,7 +23,7 @@ a{
 }
 
 .title{
-    margin-left: 12%;
+    margin-left: 4vw;
     font-family: 'PT Serif', 'Times New Roman', serif;
     font-weight: 700;
     font-size: 3vw;
@@ -29,7 +31,7 @@ a{
 
 .person{
     width: 30%;
-    margin-left: 12%;
+    margin-left: 4vw;
 }
 
 main h2{
@@ -58,12 +60,15 @@ main p{
     margin-left: 2%;
 }
 footer{
-    margin-left: 10%;
+    margin-left: 5%;
     width: 100%;
 }
 
-footer li{
+.contact li{
     text-decoration:none;
     list-style: none;
     display: inline;
+    font-family: 'PT Serif', 'Times New Roman', serif;
+    font-size: 1.5vw;
+    line-height: 2.5vw;
 }
