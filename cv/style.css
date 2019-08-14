@@ -1,0 +1,69 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 1024px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    overflow: auto;
+}
+
+ol, ul footer{
+    list-style: none;
+}
+
+a{
+    font-family: 'PT Serif', 'Times New Roman', serif;
+    font-size: 1.5vw;
+    text-decoration: none;
+    color:#6d6a6a;
+}
+
+.title{
+    margin-left: 12%;
+    font-family: 'PT Serif', 'Times New Roman', serif;
+    font-weight: 700;
+    font-size: 3vw;
+}
+
+.person{
+    width: 30%;
+    margin-left: 12%;
+}
+
+main h2{
+    margin-left: 5%;
+    font-family: 'PT Serif', 'Times New Roman', serif;
+    font-weight: 400;
+    font-size: 2.5vw;
+}
+main p{
+    margin-left: 2%;
+    font-family: 'PT Serif', 'Times New Roman', serif;
+    font-size: 1.5vw;
+    line-height: 2vw;
+}
+.line{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border-top: 1px solid #ebebeb;
+}
+.items{
+    font-family: 'PT Serif', 'Times New Roman', serif;
+    font-size: 1.5vw;
+    line-height: 2.5vw;
+}
+.my-project{
+    margin-left: 2%;
+}
+footer{
+    margin-left: 10%;
+    width: 100%;
+}
+
+footer li{
+    text-decoration:none;
+    list-style: none;
+    display: inline;
+}
