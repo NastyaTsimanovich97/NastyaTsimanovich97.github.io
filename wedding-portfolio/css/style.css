@@ -1,0 +1,186 @@
+header{
+    background-color: #323232;
+    height: 63px;
+    width: 100%;
+    position: absolute;
+}
+h2{
+    font-family: 'Dancing Script', cursive;
+    color: #ebebeb;
+    text-align: center;
+    position: relative;
+    top:-27px;
+
+}
+p{
+    font-family: 'Dancing Script', cursive;
+    color: #ebebeb;
+    text-align: end;
+}
+main{
+    background-color: #ebebeb;
+    position: relative;
+    top: 63px;
+    /* height: 1130px; */
+}
+footer{
+    background-color: #323232;
+    height: 33px;
+    width: 100%;
+    position: relative;
+    top: 150px; 
+}
+.carousel-item1 img{
+    width: 200px;
+    position: relative;
+    left: 5px;
+    top: 5px;
+}
+.carousel-item2 img{
+    width: 250px;
+    position: relative;
+    left: 5px;
+    top: 100px;
+}
+.carousel-item3 img{
+    width: 200px;
+    position: relative;
+    left: 5px;
+    top: 5px;
+}
+.carousel-item4 img{
+    width: 250px;
+    position: relative;
+    left: 5px;
+    top: 100px;
+}
+.carousel-item5 img{
+    width: 200px;
+    position: relative;
+    left: 5px;
+    top: 5px;
+}
+.carousel-item6 img{
+    width: 250px;
+    position: relative;
+    left: 5px;
+    top: 100px;
+}
+.next-line{
+    position: relative;
+    top:5px;
+}
+.carousel-item7 img{
+    width: 200px;
+    position: relative;
+    left: 5px;
+}
+.carousel-item8 img{
+    width: 250px;
+    position: relative;
+    left: 5px;
+    top: 100px;
+}
+.carousel-item9 img{
+    width: 200px;
+    position: relative;
+    left: 5px;
+}
+.carousel-item10 img{
+    width: 250px;
+    position: relative;
+    left: 5px;
+    top: 100px;
+}
+.carousel-item11 img{
+    width: 200px;
+    position: relative;
+    left: 5px;
+}
+.carousel-item12 img{
+    width: 250px;
+    position: relative;
+    left: 5px;
+    top: 100px;
+}
+
+.next-line2{
+    position: relative;
+    top:5px;
+}
+.carousel-item13 img{
+    width: 200px;
+    position: relative;
+    left: 5px;
+}
+.carousel-item14 img{
+    width: 250px;
+    position: relative;
+    left: 5px;
+    top: 100px;
+}
+.carousel-item15 img{
+    width: 200px;
+    position: relative;
+    left: 5px;
+}
+.carousel-item16 img{
+    width: 250px;
+    position: relative;
+    left: 5px;
+    top: 100px;
+}
+.carousel-item17 img{
+    width: 200px;
+    position: relative;
+    left: 5px;
+}
+.carousel-item18 img{
+    width: 250px;
+    position: relative;
+    left: 5px;
+    top: 100px;
+}
+
+.next-line3{
+    position: relative;
+    top:5px;
+}
+
+.carousel-item19 img{
+    width: 200px;
+    position: relative;
+    left: 5px;
+}
+.carousel-item20 img{
+    width: 250px;
+    position: relative;
+    left: 5px;
+    top: 100px;
+}
+.carousel-item21 img{
+    width: 200px;
+    position: relative;
+    left: 5px;
+}
+.carousel-item22 img{
+    width: 250px;
+    position: relative;
+    left: 5px;
+    top: 100px;
+}
+.carousel-item23 img{
+    width: 200px;
+    position: relative;
+    left: 5px;
+}
+.carousel-item24 img{
+    width: 250px;
+    position: relative;
+    left: 5px;
+    top: 100px;
+}
+
+.heart{
+    color: red;
+}
